@@ -5,6 +5,7 @@ This is done using YOLOv5 algorithm
    AIM: 
    
 “ To detect and track fast moving vehicles in a real time traffic stream, and subsequently estimate its velocity.”
+
 OBJECTIVE:
 
 To transfer learn YOLO v5 DL model for image classification.
